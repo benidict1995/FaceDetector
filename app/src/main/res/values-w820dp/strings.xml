@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Monkey Face</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_face_detection_example">Monkey Face Detection</string>
+    <string name="app_info">Subukang Gamitin ang Application ko para malaman mo kung mukhang Unggoy ka. My Application Identify if you are a monkey or not.</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="detect_face">Detect Monkey Face</string>
+</resources>
